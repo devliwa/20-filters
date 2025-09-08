@@ -1,5 +1,37 @@
-## Filters Project
+# 20 Filters Project
 
+A JavaScript project that allows users to filter items dynamically based on categories or search input.  
+This project is great for practicing DOM manipulation, event listeners, and working with arrays of objects.
+
+---
+
+## Features
+- Filter items by category with buttons  
+- Search/filter items dynamically using input text  
+- Responsive and clean layout  
+
+---
+
+## Built With
+- **HTML5** for structure  
+- **CSS3** for styling  
+- **JavaScript (ES6)** for interactivity  
+
+---
+
+## Demo Preview
+[20 Filters Project](https://devliwa.github.io/20-filters/)
+<img width="1255" height="636" alt="Screenshot 2025-09-08 at 5 02 57 AM" src="https://github.com/user-attachments/assets/599003cf-0cd4-4b9a-8046-61c6edbc180f" />
+
+
+---
+
+## What I Learned
+- Dynamically showing/hiding content based on user input  
+- Handling multiple filter options simultaneously  
+- Updating the DOM efficiently for a smooth user experience
+
+  
 #### HTML Structure
 
 - section.products
